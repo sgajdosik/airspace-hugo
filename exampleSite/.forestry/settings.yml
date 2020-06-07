@@ -5,7 +5,9 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Blog Post
+  label: O nas
+- type: heading
+  label: O nas
 - type: directory
   path: exampleSite/content/english/blog
   label: Post (en)
